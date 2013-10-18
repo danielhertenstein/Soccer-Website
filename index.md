@@ -2,7 +2,7 @@
 layout: default
 title: Main Page
 ---
-Soccer Coaching Odyssey
+The Soccer Coaching Odyssey
 =======================
 
 [Coaching Guidebook](https://docs.google.com/file/d/0B3eCgHAMH9cCZEdpMXprMkdSbnc/edit?usp=sharing)
