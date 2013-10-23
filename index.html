@@ -4,7 +4,7 @@ title: Main Page
 ---
 <h1>The Soccer Coaching Odyssey</h1>
 
-<p>This site serves the purpose of sharing my development as a soccer coach. It is my hope that, in sharing this, others will benefit, as well as, provide me with useful feedback. The topics of posts range from training sessions to tactical theory to physiological and psychological development of youth players. Alongside the posts, I am creating my own guidebook that covers every aspect of coaching that I have touched upor so far. It will continually be added to and revised, but will always be available for you to download and draw from.</p>
+<p>This site serves the purpose of sharing my development as a soccer coach. It is my hope that, in sharing this, others will benefit, as well as, provide me with useful feedback. The topics of posts range from training sessions to tactical theory to physiological and psychological development of youth players. Alongside the posts, I am creating my own guidebook that covers every aspect of coaching that I have touched upor so far. It will continually be added to and revised, but will always be available for you to read and draw from.</p>
 
 {% for post in paginator.posts %}
 <div class="row">
@@ -19,35 +19,33 @@ title: Main Page
 {% endfor %}
 <div class="row">
     <div class="col-md-12">
-        <div class="pagination">
-            <ul>
-                {% if paginator.previous_page %}
-                    {% if paginator.previous_page == 1 %}
-                        <li><a href="/">Prev</a></li>
-                    {% else %}
-                        <li><a href="/page{{ paginator.previous_page }}">Prev</a></li>
-                    {% endif %}
+        <ul class="pagination">
+            {% if paginator.previous_page %}
+                {% if paginator.previous_page == 1 %}
+                    <li><a href="/">Prev</a></li>
                 {% else %}
-                    <li><span class="disabled">Prev</span></li>
+                    <li><a href="/page{{ paginator.previous_page }}">Prev</a></li>
                 {% endif %}
-                {% if paginator.page == 1 %}
-                    <li><span class="active">1</span></li>
+            {% else %}
+            <li class="disabled"><a href="#">Prev</a></li>
+            {% endif %}
+            {% if paginator.page == 1 %}
+            <li class="active"><a href="#">1<span class="sr-only">(current)</span></a></li>
+            {% else %}
+                <li><a href="/">1</a></li>
+            {% endif %}
+            {% for count in (2..paginator.total_pages) %}
+                {% if count == paginator.page %}
+                <li class="active"><a href="#">{{ count }}<span class="sr-only">(current)</span></a></li>
                 {% else %}
-                    <li><a href="/">1</a></li>
+                    <li><a href="/page{{ count }}">{{ count }}</a></li>
                 {% endif %}
-                {% for count in (2..paginator.total_pages) %}
-                    {% if count == paginator.page %}
-                        <li><span class="active">{{ count }}</span></li>
-                    {% else %}
-                        <li><a href="/page{{ count }}">{{ count }}</a></li>
-                    {% endif %}
-                {% endfor %}
-                {% if paginator.next_page %}
-                    <li><a href="/page{{ paginator.next_page }}">Next</a></li>
-                {% else %}
-                    <li><span class="disabled">Next</span></li>
-                {% endif %}
-            </ul>
-        </div>
+            {% endfor %}
+            {% if paginator.next_page %}
+                <li><a href="/page{{ paginator.next_page }}">Next</a></li>
+            {% else %}
+                <li class="disabled"><a href="#">Next</a></li>
+            {% endif %}
+        </ul>
     </div>
 </div>
