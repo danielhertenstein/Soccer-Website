@@ -2,7 +2,7 @@
 layout: post
 title: Introducing Team Play
 ---
-This post discusses how to introduce 1v2s, 2v1s, and 2v2s to youth players. It begins with the theory behind the progression, and then presents the associated exercises with details regarding how I present the topics to the players.
+<p class="lead">This post discusses how to introduce 1v2s, 2v1s, and 2v2s to youth players. It begins with the theory behind the progression, and then presents the associated exercises with details regarding how I present the topics to the players.</p>
 ##Theory
 At a certain age, and at the moment I’m led to believe that this age is 8/9 (how nicely that fits into my U10 coaching position), players begin to migrate from an egocentric view of the game to a team based view of the game. They begin to comprehend that they can work together to achieve greater success. Instead of dribbling down the length of the field themselves, they can pass the ball to a teammate who is in a better position than they are, and that teammate might even pass them the ball back. It was surprising to me how difficult this concept was for my players. To cultivate this type of thinking (and I do not think it necessary to motivate the need to cultivate this type of thinking), we must teach our players the relevant thought processes and place them in 1v2, 2v1, and then 2v2 situations that provide them a platform upon which to experiment.
 ###1v1 to 1v2 or 1v1 to 2v1?
