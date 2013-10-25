@@ -901,7 +901,7 @@
             // If the user wants a twitterBootstrap theme
             else if(this.options.theme === "bootstrap") {
 
-                this.element.find(headerClass + "," + subheaderClass).addClass("nav nav-list");
+                this.element.find(headerClass + "," + subheaderClass).addClass("nav nav-pills nav-stacked");
 
                 this.focusClass = "active";
 
