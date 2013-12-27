@@ -1,0 +1,13 @@
+---
+layout: post
+title: When to Dribble and When to Pass
+---
+<p class="lead">One concept that I have not quite figured out yet is how to teach youth players when to pass.</p>
+
+ I have seen in numerous locations (the US Soccer Federation curriculum as well as various club written guides) that, at the beginning stages of youth soccer, the game is egocentric and dribbling is the focus. You should not expect players to share the ball at this stage. But at some point, passing becomes more the focus. Unfortunately, I have not found good information on when that is and how to address that transition. Most guides tend to identify the U10 age group as the point where passing should be introduced while still keeping the main focus on individual progression, but they do not tell how to introduce the idea of passing and supporting teammates.
+
+This problem is more apparent during games. At the U10 age group, games are played as 8v8 including keepers. With players still not expected to share the ball very much, this leads to quite a few uninvolved players. This leads to the players either standing away from the game doing nothing or clumping on top of the ball (which I would argue hinders the game more than standing doing nothing). More passing is required to get a higher percentage of players involved. But then this detracts from individual improvement. Maybe 8v8 is too many players for an age group where dribbling is still supposed to be the focus.
+
+In a 1v1 situation, the attacker should attempt to beat their opponent via dribbling and effectively remove him from the attack, increasing the numerical advantage of the attacking side. Even in an unfavorable 1v2 situation, the attacker can take a risk and try to come up with a creative solution. After all, it is at these ages that there are no reprocussions for losing and the players should be pushing their technical and creative boundaries. But what about 1v3 and 1v4? At some point, the attacker being in such an unfavorable situation means that at least one of his teammates is in a favorable position. Therefore, when should players be told to pass, and when should players be encouraged to beat their opponent(s)?
+
+I think that, for now, I will instruct my players to always pass to a teammate who is open in front of goal. If they are in a 1v1 situation, they should always try to beat their opponent (unless they have a teammate in front of goal). In a 1v2 situation, I will encourage them to try to beat both opponents so they will push themselves to problem solve. Once they get into 1v3 situations and above, I will leave it up to them. I will tell them that the best play for the team is to pass to a teammate, but they should attempt to beat their opponents if they want to try.
