@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Path to PPL Park
+title: Path to PPL Park Education Forum
 ---
 <p class="lead">On December 3rd, I attended a forum on youth soccer held by the Philadelphia Union at PPL Park. I was thought that the forum would be about coaching youth soccer, and while I was wrong, I still gained valuable information and got my face in front of some important people at the academy.</p>
 
