@@ -2,7 +2,7 @@
 layout: post
 title: The Guidebook
 ---
-<p class="lead">One of the main motivations for this site is hosting the guidebook that I will be developing over the course of my life. This guidebook contains information on a multitufe of topics and serves as my personal reference for all of the knowledge I have collected and view to be useful. I choose to host it online hoping that it will help others as well.</p>
+<p class="lead">One of the main motivations for this site is hosting the guidebook that I will be developing over the course of my life. This guidebook contains information on a multitude of topics and serves as my personal reference for all of the knowledge I have collected and view to be useful. I chose to host it online hoping that it will help others as well.</p>
 
 You can access my guidebook [here](/guidebook) or by the link in the top bar. I also provide my guidebook in PDF form (when I decide on the best way to do so) if you prefer to read in that why or want to print it out (the feasibility of which will decline as I near my page number goal of Graham's Number).
 
