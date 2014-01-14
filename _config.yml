@@ -3,4 +3,5 @@ safe: true
 lsi: false
 pygments: true
 timezone: America/New_York
-paginate: 1
+paginate: 5
+markdown: kramdown
